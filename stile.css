@@ -1,0 +1,24 @@
+.curriculum{
+    border-width: 5px;
+    margin: 30px;
+    background-color: rgb(88, 150, 17);
+}
+.text1{
+    text-indent: 50px;
+    background-color: rgb(4, 163, 110);
+
+}
+.text{
+    text-indent: 50px;
+    background-color: aliceblue;
+
+}
+.colortab1{
+    background-color: rgb(10, 134, 20);
+}
+.colortab2{
+    background-color: rgb(145, 37, 37);
+}
+.colortab3{
+    background-color: rgb(44, 37, 112);
+}
